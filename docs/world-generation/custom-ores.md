@@ -17,6 +17,9 @@ The use of features and feature rules requires Creation of Custom Biomes to be e
 :::tip
 For this tutorial, I'll be using 2 custom blocks, Titanite Ore and Deepslate Titanite Ore. For how to make custom blocks, visit the [Blocks Intro](/blocks/blocks-intro) page.
 :::
+:::tip
+Remember to set your minimum engine version to 1.20.20+!
+:::
 
 ## The Feature File
 
